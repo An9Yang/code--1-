@@ -18,9 +18,9 @@ function Component_5_1() {
           className="bodytext-style-bt1 text-align-center"
           data-frz-id="umaqzefacfr"
         >
-          “Partnering with PromptCrafted Studio was a turning point. Their
+          "Partnering with PromptCrafted Studio was a turning point. Their
           expertise in AI prompt engineering elevated our copywriting workflow,
-          unlocking creativity and speed we didn’t think possible.”
+          unlocking creativity and speed we didn't think possible."
         </div>
       </div>
       <div className="testimony is-2nd" data-frz-id="tzre3jd7acf">
@@ -55,10 +55,10 @@ function Component_5_1() {
           className="bodytext-style-bt1 text-align-center"
           data-frz-id="ymhek4am10q"
         >
-          “PromptCrafted Studio gets it. Their prompts helped me write faster
+          "PromptCrafted Studio gets it. Their prompts helped me write faster
           without losing my voice. It still felt like me—just way more
-          efficient. Super personal, super professional. Can’t recommend them
-          enough.”
+          efficient. Super personal, super professional. Can't recommend them
+          enough."
         </div>
       </div>
       <div className="testimony is-1st" data-frz-id="ybhzt4kmbi">
@@ -92,10 +92,10 @@ function Component_5_1() {
           className="bodytext-style-bt1 text-align-center"
           data-frz-id="ph6rjkfkfx"
         >
-          “PromptCrafted Studio gets it. Their prompts helped me write faster
+          "PromptCrafted Studio gets it. Their prompts helped me write faster
           without losing my voice. It still felt like me—just way more
-          efficient. Super personal, super professional. Can’t recommend them
-          enough.”
+          efficient. Super personal, super professional. Can't recommend them
+          enough."
         </div>
       </div>
     </div>
